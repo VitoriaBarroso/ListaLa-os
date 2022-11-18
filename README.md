@@ -1,2 +1,2 @@
-# ListaLa-os
+# ListaLacos
 Lista-Laços
